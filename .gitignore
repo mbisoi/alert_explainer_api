@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+alerts.db
+alerts.db-journal
+alerts.db-wal
+alerts.db-shm
